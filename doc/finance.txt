@@ -1,0 +1,45 @@
+*finance.txt* easy tracker for finances
+   ___ _                                  _           ~
+  / __(_)_ __   __ _ _ __   ___ _____   _(_)_ __ ___  ~
+ / _\ | | '_ \ / _` | '_ \ / __/ _ \ \ / / | '_ ` _ \ ~
+/ /   | | | | | (_| | | | | (_|  __/\ V /| | | | | | |~
+\/    |_|_| |_|\__,_|_| |_|\___\___(_)_/ |_|_| |_| |_|~
+
+====================================================================
+CONTENTS                                            *FinanceContents*
+
+    1. Usage ................ |FinanceUsage|
+    2. Mappings ............. |FinanceMappings|
+    3. License .............. |FinanceLicense|
+    4. Bugs ................. |FinanceBugs|
+    5. Contributing ......... |FinanceContributing|
+    6. Changelog ............ |FinanceChangelog|
+    7. Credits .............. |FinanceCredits|
+
+====================================================================
+Section 1: Usage                                       *FinanceUsage*
+
+This plugin provides commands and shortcuts to create a table of 
+spending and generate a pdf from the output.
+
+====================================================================
+Section 2: Mappings                                 *FinanceMappings*
+
+This plugin provides no default mappings, so you must define them 
+in your vimrc.
+let g:FinanceGenerate = <leader>a
+
+====================================================================
+Section 3: Usage                                       *FinanceUsage*
+
+====================================================================
+Section 4: Bugs                                         *FinanceBugs*
+
+====================================================================
+Section 5: Contributing                         *FinanceContributing*
+
+====================================================================
+Section 6: Changelog                               *FinanceChangelog*
+
+====================================================================
+Section 7: Credits                                   *FinanceCredits*
